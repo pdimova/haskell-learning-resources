@@ -7,4 +7,4 @@ https://www.fpcomplete.com/haskell/tutorial/stack-play/ Tutorial on ghc, ghci, r
 
 http://learn.hfm.io/ Haskell for dummies 
 
-https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV - Intro to Haskell videos
+https://www.youtube.com/playlist?list=PLHRF-X-NtQR4MZBvm05NshPIEI8ELID5m - Intro to Haskell videos
